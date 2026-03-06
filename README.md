@@ -105,4 +105,4 @@ para identificar patrones económicos y posibles impactos en la actividad econó
 
 Herramientas utilizadas:
 
-Python | Pandas | Power BI | SQL | Looker Studio
+Python | Pandas | Power BI | Looker Studio
